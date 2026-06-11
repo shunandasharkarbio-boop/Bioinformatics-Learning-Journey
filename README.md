@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" width="100%">
+  <img src="https://raw.githubusercontent.com/shunandasharkarbio-boop/Bioinformatics-Learning-Journey/main/assets/banner.png" width="100%">
 </p>
 
 # Bioinformatics Learning Journey 🧬
