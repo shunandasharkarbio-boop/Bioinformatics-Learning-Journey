@@ -20,6 +20,9 @@ This repository documents my hands-on journey into Bioinformatics, Genomics, and
 ### Day 4 - Genome Assembly with Velvet
 🔗 https://github.com/shunandasharkarbio-boop/Genome-assembly-with-Velvet
 
+### Day 5 - Data Analysis & Workflow Automation with Galaxy
+🔗 
+
 ## Skills & Technologies
 
 - Galaxy Platform
