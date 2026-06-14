@@ -21,7 +21,7 @@ This repository documents my hands-on journey into Bioinformatics, Genomics, and
 🔗 https://github.com/shunandasharkarbio-boop/Genome-assembly-with-Velvet
 
 ### Day 5 - Data Analysis & Workflow Automation with Galaxy
-🔗 
+🔗 https://github.com/shunandasharkarbio-boop/Galaxy-basic
 
 ## Skills & Technologies
 
@@ -37,11 +37,13 @@ This repository documents my hands-on journey into Bioinformatics, Genomics, and
 - Velvet
 - IGV
 - JBrowse
+- Workflow Automation
 
+  
 ## Future Topics
 
 - RNA-Seq Analysis
 - Variant Calling
 - Differential Gene Expression
 - Metagenomics
-- Workflow Automation
+  
