@@ -23,6 +23,9 @@ This repository documents my hands-on journey into Bioinformatics, Genomics, and
 ### Day 5 - Data Analysis & Workflow Automation with Galaxy
 🔗 https://github.com/shunandasharkarbio-boop/Galaxy-basic
 
+### Day 6 - Chloroplast-genome-assembly
+🔗 https://github.com/shunandasharkarbio-boop/Chloroplast-genome-assembly
+
 ## Skills & Technologies
 
 - Galaxy Platform
@@ -38,7 +41,7 @@ This repository documents my hands-on journey into Bioinformatics, Genomics, and
 - IGV
 - JBrowse
 - Workflow Automation
-
+- Assembly Polishing
   
 ## Future Topics
 
