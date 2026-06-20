@@ -26,6 +26,10 @@ This repository documents my hands-on journey into Bioinformatics, Genomics, and
 ### Day 6 - Chloroplast-genome-assembly
 🔗 https://github.com/shunandasharkarbio-boop/Chloroplast-genome-assembly
 
+### Day 7 - Olympics-Data-Analysis
+🔗 https://github.com/shunandasharkarbio-boop/Olympics-Data-Analysis
+
+
 ## Skills & Technologies
 
 - Galaxy Platform
@@ -42,6 +46,7 @@ This repository documents my hands-on journey into Bioinformatics, Genomics, and
 - JBrowse
 - Workflow Automation
 - Assembly Polishing
+- Research Data Management
   
 ## Future Topics
 
