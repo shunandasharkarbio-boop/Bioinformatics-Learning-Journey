@@ -29,6 +29,12 @@ This repository documents my hands-on journey into Bioinformatics, Genomics, and
 ### Day 7 - Olympics-Data-Analysis
 🔗 https://github.com/shunandasharkarbio-boop/Olympics-Data-Analysis
 
+### Day 8 - Data Manipulation
+🔗 https://github.com/shunandasharkarbio-boop/Olympics-Data-Analysis
+
+### Day 9 - From Peaks to Genes
+🔗 https://github.com/shunandasharkarbio-boop/From-peaks-to-genes
+
 
 ## Skills & Technologies
 
@@ -47,6 +53,7 @@ This repository documents my hands-on journey into Bioinformatics, Genomics, and
 - Workflow Automation
 - Assembly Polishing
 - Research Data Management
+-  Performing a naive peak-to-gene analysis
   
 ## Future Topics
 
